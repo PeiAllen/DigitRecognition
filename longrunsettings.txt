@@ -1,0 +1,13 @@
+const int seed=8239;
+const int layers=2;
+const int nodes=16;
+const int inputsize=28*28;
+const int outputsize=10;
+const int datasize=60000;
+const int samplesize=20;
+const double stop=0.1;
+const int sizeofcheck=1000;
+const double maxvalue=254;
+const double betarate=0.9;
+const double alpharate=0.1;
+const double MV=1;
